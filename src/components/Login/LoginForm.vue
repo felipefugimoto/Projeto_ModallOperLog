@@ -57,6 +57,7 @@ function handleLogin() {
 
     setTimeout(() => {
       mensagem.value = '';
+      
       tipoMensagem.value = '';
     }, 3000);
   }
